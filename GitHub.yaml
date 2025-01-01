@@ -1,0 +1,6 @@
+
+payload:
+payload:
+  # > GitHub
+   - DOMAIN-KEYWORD,github
+   - DOMAIN-SUFFIX,ghcr.io

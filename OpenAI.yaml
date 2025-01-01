@@ -1,0 +1,19 @@
+# OpenAI (ChatGPT)
+payload:
+  - DOMAIN-SUFFIX,ai.com,AI专用
+  - DOMAIN-SUFFIX,api.revenuecat.com,AI专用
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.com,AI专用
+  - DOMAIN-SUFFIX,chatgpt.com,AI专用
+  - DOMAIN-SUFFIX,chat.openai.com,AI专用
+  - DOMAIN-SUFFIX,auth0.openai.com,AI专用
+  - DOMAIN-SUFFIX,cdn.openai.com,AI专用
+  - DOMAIN-SUFFIX,oaistatic.com,AI专用
+  - DOMAIN-SUFFIX,oaiusercontent.com,AI专用
+  - DOMAIN-SUFFIX,api-site.azureedge.net,AI专用
+  - DOMAIN-SUFFIX,com.imgix.net,AI专用
+  - DOMAIN-SUFFIX,comproductionae4b.blob.core.windows.net,AI专用
+  - DOMAIN-SUFFIX,com-api-bdcpf8c6d2e9atf6.z01.azurefd.net,AI专用
+  - DOMAIN-SUFFIX,ingest.sentry.io,AI专用
+  - DOMAIN-SUFFIX,ios.chat.openai.com.cdn.cloudflare.net,AI专用
+  - DOMAIN-SUFFIX,client.crisp.chat,AI专用
+  - DOMAIN-SUFFIX,o33249.ingest.sentry.io,AI专用
